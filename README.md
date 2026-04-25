@@ -1,2 +1,2 @@
 # Curriculo
-Link para o GitHub pages: https://nickollaskaiky.github.io/Curriculo/
+Link para o GitHub Pages: https://nickollaskaiky.github.io/Curriculo/
